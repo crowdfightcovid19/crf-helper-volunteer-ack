@@ -2,6 +2,7 @@ import pandas as pd
 from googleapiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
+from oauth2client.service_account import ServiceAccountCredentials
 import os
 import pickle
 import time
@@ -57,23 +58,27 @@ def get_all_volunteers():
     SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
 
     # Add the spreadsheet ID of Coronasurvey Crowdtranslations
-    SPREADSHEET_ID_input = ''
+    SPREADSHEET_ID_input = '1NvjjmXAB7B0Qc2vT6hAIWE7jSrrg1TuPzkogqfiKl5E'
     RANGE_NAME = 'A1:C200'
 
     # Manage the credentials
-    creds = None
-    if os.path.exists('token.pickle'):
-        with open('token.pickle', 'rb') as token:
-            creds = pickle.load(token)
-    if not creds or not creds.valid:
-        if creds and creds.expired and creds.refresh_token:
-            creds.refresh(Request())
-        else:
-            flow = InstalledAppFlow.from_client_secrets_file(
-                'credentials.json', SCOPES)  # here enter the name of your downloaded JSON file
-            creds = flow.run_local_server(port=0)
-        with open('token.pickle', 'wb') as token:
-            pickle.dump(creds, token)
+    # creds = None
+    # if os.path.exists('token.pickle'):
+    #     with open('token.pickle', 'rb') as token:
+    #         creds = pickle.load(token)
+    # if not creds or not creds.valid:
+    #     if creds and creds.expired and creds.refresh_token:
+    #         creds.refresh(Request())
+    #     else:
+    #         flow = InstalledAppFlow.from_client_secrets_file(
+    #             'credentials.json', SCOPES)  # here enter the name of your downloaded JSON file
+    #         creds = flow.run_local_server(port=0)
+    #     with open('token.pickle', 'wb') as token:
+    #         pickle.dump(creds, token)
+    scope = ['https://spreadsheets.google.com/feeds',
+             'https://www.googleapis.com/auth/drive']
+    creds = ServiceAccountCredentials.from_json_keyfile_name(
+        r"C:\GDrive\Hipertec\Coronavirus\Credentials\google.json", scope)
 
     service = build('sheets', 'v4', credentials=creds)
 
