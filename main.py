@@ -110,7 +110,7 @@ def main():
     """
     all_volunteers = get_all_volunteers()
     df = pd.DataFrame(all_volunteers[1:], columns=all_volunteers[0])
-    df.to_csv('all_volunteers.csv', index=False)
+    df.to_csv('all_volunteers.csv', index=False, encoding='utf-8')
 
 
 main()
