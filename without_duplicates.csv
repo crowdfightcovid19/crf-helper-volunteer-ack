@@ -1,4 +1,4 @@
-Language,Role,Name,Email,Agreed to be mentioned,Should be acknowledge as
+﻿Language,Role,Name,Email,Agreed to be mentioned,Should be acknowledge as
 Afrikaans,First translator,Ilani Mostert,imostert8@gmail.com,Yes,Ilani Mostert
 Afrikaans,Reviewer,Marilize Burger,mcburger@sun.ac.za,Yes,Marilize Burger
 Afrikaans,Reviewer,Nicole Kennedy,nickystix25@gmail.com,yes,Nicole Kennedy
@@ -59,18 +59,12 @@ Chinese (simplified),Reviewer,Hui Ming Tew,elentew@gmail.com,yes,Hui Ming Tew
 Chinese (simplified),Reviewer,Audrey Wang,rwang@murraystate.edu,no,Anonymous
 Chinese (simplified),Reviewer,R Yang,yangbrownie@gmail.com,yes,R Yang
 Chinese (simplified),Reviewer,Wangzhao Song,songwangzhao@outlook.com,yes,Wangzhao Song
-Chinese (simplified),Reviewer,Ooi Su Yin,ooisuyin1987@hotmail.com,yes,Ooi Su Yin
 Chinese (traditional),First translator,Matthew Tang,matthew.tang@qmul.ac.uk,yes,Matthew Tang
-Chinese (traditional),First translator,Mark Cheng,tkmc2@cam.ac.uk,yes,Mark Cheng
-Chinese (traditional),Reviewer,Yang Lu,luyang1210@gmail.com,yes,Yang Lu
 Chinese (traditional),Reviewer,Shao-Yen Kao,shao-yen.kao@bmc.med.lmu.de,yes,Shao-Yen Kao
 Chinese (traditional),Reviewer,Ann Wong,annwong.sverige@gmail.com,Yes,Ann Wong
-Chinese (traditional),Reviewer,Hui Ming Tew,elentew@gmail.com,yes,Hui Ming Tew
 Chinese (traditional),Reviewer,Irene Szeto,szeto@biochem.mpg.de,yes,Irene Szeto
 Chinese (traditional),Reviewer,Phoebe Lam,phoebelam@u.northwestern.edu,yes,Phoebe Lam
 Croatian,First translator,Vili Krainz,vili.krainz@gmail.com,yes,Vili Krainz
-Croatian,Reviewer,Nataša Ačimović-Knežević,natasaak@gmail.com,yes,Nataša Ačimović-Knežević
-Croatian,Reviewer,Jelena Popović,popovic.jelena.1991@gmail.com,yes,Jelena Popović
 Croatian,Reviewer,Tina Catela Ivkovic,tinacatelaivkovic@gmail.com,yes,Tina Catela Ivkovic
 Croatian,Reviewer,Barbara Milutinovic,barb.milutinovic@gmail.com,yes,Barbara Milutinovic
 Croatian,Reviewer,Iva Kutija,ikutija62@gmail.com,yes,Iva Kutija
@@ -151,7 +145,6 @@ Hindi,Reviewer,Revati,revati.dhand@unito.it,yes,Revati
 Hindi,Reviewer,Pranjal,pranjal.nayak@pm.me,yes,Pranjal
 Hindi,Reviewer,Poornima,poornimaramesh1995@gmail.com,yes,Poornima
 Hindi,Reviewer,Pankaj,pankajsac@gmail.com,Yes,Pankaj
-Hindi,Reviewer,Atanu Kumar Dutta,atanu.dutta05@gmail.com,Yes,Atanu Kumar Dutta
 Hindi,Reviewer,Sushant Raut,sushantkr@gmail.com,Yes,Sushant Raut
 Hindi,Reviewer,Nupur Verma,vnupur89@gmail.com,Yes,Nupur Verma
 Hindi,Reviewer,ज़ूलीएँ मलार,julien.malard@mail.mcgill.ca,हां,Manual check needed
@@ -161,7 +154,6 @@ Hindi,Reviewer,Saumya,saumya.kumar@medicina.ulisboa.pt,yes,Saumya
 Hindi,Reviewer,Ishani,ishani.banik@usz.ch,yes,Ishani
 Hindi,Reviewer,Aafrin,aafrin.pettiwala@curie.fr,yes,Aafrin
 Hindi,Reviewer,Janhvi Jaiswal,janhvi.jaiswal@mail.zbsa.uni-freiburg.de,yes,Janhvi Jaiswal
-Hindi,Reviewer,Shahina,shahina.mazumdar@gmail.com,yes,Shahina
 Hindi,Reviewer,Anindya Mukhopadhya,anindya131283@gmail.com,yes,Anindya Mukhopadhya
 Hindi,Reviewer,Palak Wadhwa,pwadhwa351@gmail.com,yes,Palak Wadhwa
 Hindi,Reviewer,Dhruvika Varun,dhruvika762@gmail.com,yes,Dhruvika Varun
@@ -199,7 +191,6 @@ Lithuanian,First translator,Ieva Berzanskyte,ieva.berzanskyte@kcl.ac.uk,Yes,Ieva
 Lithuanian,Reviewer,Rasa Gulbinaite,rasa.gulbinaite@gmail.com,Yes,Rasa Gulbinaite
 Lithuanian,Reviewer,Ieva Dauzickaite,ievadauzickaite@gmail.com,yes,Ieva Dauzickaite
 Macedonian,First translator,Nina Tunteva,ninatunteva@gmail.com,yes,Nina Tunteva
-Macedonian,Reviewer,Filip Ilievski,filip_ilievski94@yahoo.com,yes,Filip Ilievski
 Macedonian,Reviewer,Marko Hristov,mapko1991@gmail.com,yes,Marko Hristov
 Macedonian,Reviewer,Karlo Brsak Krsteski ,kbrsak@hotmail.com ,yes,Karlo Brsak Krsteski 
 Macedonian,Reviewer,Daniel Matrakoski,daniel.matrakoski@gmail.com,yes,Daniel Matrakoski
@@ -219,8 +210,6 @@ Maltese,Reviewer,Michelle Camilleri,mich_11@live.com,yes,Michelle Camilleri
 Marathi,Translator and Reviewer,Shainaz Landge,slandge@georgiasouthern.edu,YES,Shainaz Landge
 Marathi,Translator ,Shaarvari Bhat,shaarvarib@gmail.com,Yes,Shaarvari Bhat
 Marathi,Reviewer,Madhura Ketkar,mketkar@uni-mainz.de,Yes,Madhura Ketkar
-Montenegrin,First translator,Nataša Aćimović Knežević,natasaak@gmail.com,yes,Nataša Aćimović Knežević
-Montenegrin,Reviewer,Jelena Popović,popovic.jelena.1991@gmail.com,yes,Jelena Popović
 Montenegrin,Reviewer,Tijana Martinovic,tijana.martinovic@gmail.com,yes,Tijana Martinovic
 Nepali,First translator,Ram Itani,ramcitani@gmail.com,No,Anonymous
 Norwegian,First translator,Inga Steindal,inga.steindal.12@ucl.ac.uk,yes,Inga Steindal
@@ -261,7 +250,6 @@ Russian,First translator,Maria Sorokina,maria.ssorokina@gmail.com,yes,Maria Soro
 Russian,Reviewer,Yonina Bykov,yonina.bykov@gmail.com,yes,Yonina Bykov
 Russian,Reviewer,Eleonroa Achrak,eleonroa.achrak48@myhunter.cuny.edu,yes,Eleonroa Achrak
 Russian,Reviewer,Gulnara Tagirdzhanova,tagirdzh@ualberta.ca,yes,Gulnara Tagirdzhanova
-Russian,Reviewer,Irina Dvorkin,dvorkini@gmail.com,yes,Irina Dvorkin
 Russian,Reviewer,Natalia Povarova,povarovanv@gmail.com,yes,Natalia Povarova
 Russian,Reviewer,Anastasiya Volakhava,volokhova_nastia@mail.ru,yes,Anastasiya Volakhava
 Russian,Rewiewer,Daria Kokh,db.kokh@yahoo.de,yes,Daria Kokh
@@ -273,7 +261,6 @@ Russian,Reviewer,Maxim Voronkov,max.voronkov@gmail.com,yes,Maxim Voronkov
 Russian,Reviewer,Aleksandra Marakhovskaia,marakhovskaya.a@gmail.com,yes,Aleksandra Marakhovskaia
 Russian,Reviewer ,Kateryna Mergut ,kateryna.mergut@mail.utoronto.ca,no,Anonymous
 Russian,Reviewer,Boris Nedyalkov,boris.ned.val@gmail.com,yes,Boris Nedyalkov
-Russian,Reviewer,Ksenia Kuznetsova,kkuzn@mpi-cbg.de,yes,Ksenia Kuznetsova
 Russian,Reviewer,Maxim Voronin,mvoronin@yandex.ru,no,Anonymous
 Russian,Reviewer,Mikhail Volkov,volkov.mikhail.yu@gmail.com,yes,Mikhail Volkov
 Russian,Reviewer,Olga Mikhaylichenko,olga.mikhaylichenko@kcl.ac.uk,yes,Olga Mikhaylichenko
@@ -281,30 +268,23 @@ Russian,Reviewer,Ekaterina Pronizius,ekaterina.pronizius@univie.ac.at,yes,Ekater
 Russian,Reviewer,Maria Khalikova,khalikom@faf.cuni.cz,yes,Maria Khalikova
 Russian,Reviewer,Polina Shpudeiko,pshpudeiko@gmail.com,yes,Polina Shpudeiko
 Russian,Reviewer,Ksenia Zueva,mearas.roh@gmail.com,yes,Ksenia Zueva
-Russian,Reviewer,Mariya Shtumpf,ms17665@essex.ac.uk,yes,Mariya Shtumpf
 Russian,Trasnslator cell A61,Dmitry Nuzhdin,d.s.nuzhdin@ya.ru,yes,Dmitry Nuzhdin
 Russian,Reviewer,Olga Avercheva,olga.avercheva@gmail.com,yes,Olga Avercheva
 Russian,Reviewer,Julia Belyakova,julbinb@gmail.com,yes,Julia Belyakova
 Serbian,First translator,Ivana Prokić,ajimmned@gmail.com,yes,Ivana Prokić
 Serbian,Reviewer,Mateja Soretić,ms2552@cam.ac.uk,yes,Mateja Soretić
-Serbian,Reviewer,Nataša Ačimović Knežević,natasaak@gmail.com,yes,Nataša Ačimović Knežević
 Serbian,Reviewer,Svetlana Bojic,ceca.bojic@gmail.com,yes,Svetlana Bojic
-Serbian,Reviewer,Jelena Popović,popovic.jelena.1991@gmail.com,yes,Jelena Popović
 Serbian,Reviewer,Saša Petrović,spetrovic.mb@gmail.com,yes,Saša Petrović
 Serbo-Croatian,First translator,Tihana Maric,tihana.maric0@gmail.com,yes,Tihana Maric
 Serbo-Croatian,Reviewer,Aleksandra Miletic,aleksandramiletictf@gmail.com,yes,Aleksandra Miletic
 Serbo-Croatian,Reviewer,Natalija Popovic,natalija.popovic@hotmail.it,yes,Natalija Popovic
 Serbo-Croatian,Reviewer,Luka Mikec,lmikec@math.hr,yes,Luka Mikec
-Serbo-Croatian,Reviewer,Jelena Popović,popovic.jelena.1991@gmail.com,yes,Jelena Popović
 Slovak,First translator,Martin Schön,martin.schon01@gmail.com,yes,Martin Schön
-Slovak,Reviewer,Magdaléna Kacejová,m.kacejova@gmail.com,yes,Magdaléna Kacejová
-Slovak,Reviewer,Eva Chocholová,chocholova.e@gmail.com,yes,Eva Chocholová
 Slovak,Reviewer,Katarina Stanciakova,stanciakova@gmail.com,yes,Katarina Stanciakova
 Slovak,Reviewer,Tereza Brachtlova,tereza.brachtl@gmail.com,yes,Tereza Brachtlova
 Slovak,Reviewer,Diana Széliová,daja.sz@gmail.com,yes,Diana Széliová
 Slovak,Reviewer,Nicole Kocúrová,nika.kocurova@gmail.com,yes,Nicole Kocúrová
 Slovenian,First translator,Vid Kocijan,vid.kocijan@cs.ox.ac.uk,yes,Vid Kocijan
-Slovenian,Reviewer,Tijana Martinovic,tijana.martinovic@gmail.com,yes,Tijana Martinovic
 Slovenian,Reviewer,Gregor Kladnik,g.kladnik@gmail.com,no,Anonymous
 Swedish,First translator,Hannele Luhtasela,hannele@netherrealm.net,yes,Hannele Luhtasela
 Swedish,Reviewer,Mikael Billberg,mikael_billberg@yahoo.com,yes,Mikael Billberg
@@ -319,9 +299,7 @@ Tamil,First translator,Yamini Ravichandran,yaminiyogalakshmi.nit@gmail.com,yes,Y
 Tamil,Reviewer,Sureshkumar Ramasamy,sureshxtal@gmail.com,,Manual check needed
 Tamil,Reviewer,Sathya Ganesan,sathvikram@gmail.com,,Manual check needed
 Tamil,Reviewer,Prasanth Shyamsundar,prasanth.s.cmi@gmail.com,yes,Prasanth Shyamsundar
-Tamil,Reviewer,Poornima Ramesh,poornimaramesh1995@gmail.com,yes,Poornima Ramesh
 Tamil,First translator,Krithika,krithika_vr@students.iiserpune.ac.in,no,Anonymous
-Telugu,First translator,Vutha family,amar.vutha@utoronto.ca,yes,Vutha family
 Telugu,Reviewer,Sundara Tejaswi Digumarti,sundara.tejaswi@gmail.com,yes,Sundara Tejaswi Digumarti
 Telugu,Reviewer,Raghunadharao D,rdigumarti|||||@gmail.com,yes,Raghunadharao D
 Telugu,Reviewer,Sreenath Nerella,nerellasreenath@yahoo.com,yes,Sreenath Nerella
@@ -332,13 +310,9 @@ Thai,Reviewer,Kanokphan Jongjarb,k.jongjarb@yahoo.com,No,Anonymous
 Thai,Reviewer,Sukanya Phadungwit,thestar_yaya_wean@hotmail.com,Yes,Sukanya Phadungwit
 Thai,Reviewer,Nichaluk Leartprapun,nichaluk.bam@gmail.com,No,Anonymous
 Thai,Reviewer,Hiranya Pintana,hiranya.pintana@gmail.com,No,Anonymous
-Ukrainian,First translator,Maria Sorokina,maria.ssorokina@gmail.com,yes,Maria Sorokina
-Ukrainian,Reviewer,Iryna Benilova,i.benilova@ucl.ac.uk,yes,Iryna Benilova
 Ukrainian,Reviewer,Kateryna Mergut ,katerina.can@gmail.com,no ,Anonymous
 Ukrainian,Reviewer,Svitlana Galeshchuk,svitlana.galeshchuk@gmail.com,yes,Svitlana Galeshchuk
 Urdu,First translator,Syedah Neha Ashraf,syedah.neha.ashraf@gmail.com,yes,Syedah Neha Ashraf
-Urdu,Reviewer,Zubaida Yousaf,,Yes,Zubaida Yousaf
-Urdu,Reviewer,Sabreena Moosa,,Yes,Sabreena Moosa
 Urdu,Reviewer,Asif Usmani,asifsusmani@gmail.com,Yes,Asif Usmani
 Urdu,Reviewer,naseeha qureshi ,naseehaqureshi@gmail.com ,yes,naseeha qureshi 
 Vietnamese,First translator,Jacqueline Tran,tranjacqueline@live.com,Yes,Jacqueline Tran
